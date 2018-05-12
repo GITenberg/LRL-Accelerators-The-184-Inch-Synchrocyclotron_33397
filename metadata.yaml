@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '36381'
     url: http://www.gutenberg.org/2009/agents/36381
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33397#LRL-Accelerators-The-184-Inch-Synchrocyclotron
 gutenberg_bookshelf: Physics
 gutenberg_issued: '2010-08-10'
 gutenberg_type: Text
